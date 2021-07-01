@@ -93,6 +93,7 @@ Projects
 *Test your applications running on Kubernetes*
 
 * [chaoskube](https://github.com/linki/chaoskube) - periodically kills random pods in your Kubernetes cluster
+* [HybridK8s Droid](https://hybridk8s.tech) - Automatically find errors in new releases without any custom config or code. 
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 * [kboom](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester
 * [Krucible](https://usekrucible.com/) - Quickly create temporary Kubernetes clusters for testing 
@@ -120,6 +121,7 @@ Projects
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
 * [Jenkins X](http://jenkins-x.io/) - automated CI/CD for Kubernetes with GitOps Promotion and Preview Environments on Pull Requests using best of breed OSS tools like: Jenkins, Helm, Skaffold, Kaniko, Knative Build, Knative Pipeline and Prow
 * [Apollo](https://github.com/logzio/apollo) - Open Source application providing teams with self service UI for creating and deploying their services to Kubernetes.
+* [HybridK8s Droid](https://hybridk8s.tech) - Intelligence for any software delivery platform on kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 * [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a Git repository to a Kubernetes cluster
 * [Buildkite](https://github.com/buildkite/charts) - Lean CI/CD cloud hosted control plane with agents on your infrastructure.
